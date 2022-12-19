@@ -7,3 +7,5 @@ Clone this GitHub repo and complete your project locally.
 When you are done, make sure a working demo of your project is hosted somewhere public. Then submit the URL to it in the Solution Link field. Optionally, also submit a link to your project's source code in the GitHub Link field.
 
 Note: Time zones conversion is not a purpose of this project, so assume all sent valid dates will be parsed with new Date() as GMT dates.
+
+Live Demo: <https://boilerplate-project-timestamp.tiagoribeiro25.repl.co/>
